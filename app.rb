@@ -10,5 +10,5 @@ class App < Sinatra::Base
 			"Testing the info page"
 	end
 
-	
+
 end
